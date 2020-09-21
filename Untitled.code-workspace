@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Dropbox/Research/Manuscript/Anillo"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.classpath": true,
+			"**/.project": true,
+			"**/.settings": true,
+			"**/.factorypath": true
+		},
+		"python.pythonPath": "/Users/Kaiya/miniconda/envs/ae/bin/python"
+	}
+}
